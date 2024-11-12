@@ -1,1 +1,1 @@
-toto je test
+ted uz by to melo fungovat
